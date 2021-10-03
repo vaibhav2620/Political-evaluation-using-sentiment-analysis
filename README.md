@@ -1,5 +1,5 @@
-# Political-evaluation-using-sentiment-analysis
-#SINCE FILES ARE NOT CONNECTED
-Run main.py
-Run name_avg.py
-Run all 3 graph...py
+# Political-evaluation-using-sentiment-analysis<br>
+#SINCE FILES ARE NOT CONNECTED<br>
+Run main.py<br>
+Run name_avg.py<br>
+Run all 3 graph...py<br>
